@@ -66,6 +66,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  user-select: none;
 }
 
 
@@ -91,6 +92,7 @@ p {
 .ratings li:hover {
   background: hsl(220, 5%, 49%);
   color: white;
+  
 }
 
 
